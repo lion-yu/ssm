@@ -21,6 +21,7 @@ dependencies {
     compile group: 'org.springframework', name: 'spring-core', version: '4.1.7.RELEASE'
     compile group: 'org.springframework', name: 'spring-beans', version: '4.1.7.RELEASE'
     compile group: 'org.springframework', name: 'spring-context', version: '4.1.7.RELEASE'
+    compile group: 'org.springframework', name: 'spring-jdbc', version: '4.1.7.RELEASE'
     compile group: 'org.springframework', name: 'spring-tx', version: '4.1.7.RELEASE'
     // spring web
     compile group: 'org.springframework', name: 'spring-web', version: '4.1.7.RELEASE'
